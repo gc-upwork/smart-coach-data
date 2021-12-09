@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: smart123456
+    url: jdbc:mysql://35.87.200.208:3306/smart-coach
